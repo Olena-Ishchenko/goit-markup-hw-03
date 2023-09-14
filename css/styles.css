@@ -34,7 +34,8 @@ li{margin: 0;
 padding-left: 0;}
 img{display: block;}
 .header-div{display: flex;
-justify-content: space-between;}
+justify-content: space-between;
+border-bottom: 1px solid #e7e9fc}
 
 .nav{display: flex;
 align-items: center;}
