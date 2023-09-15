@@ -171,11 +171,12 @@ border: 1px solid #e7e9fc;
 border-top: none;
 margin-bottom: 8px;
 }
+.portfolio-text{margin-bottom: 8px;}
     
 .footer{background:  #2E2F42;
 padding: 100px 0;}
 
-.footer-logo{display: inline;
+.footer-logo{display: inline-block;
 margin-bottom: 16px;}
 .colortext-footer {
      color:  #F4F4FD;
