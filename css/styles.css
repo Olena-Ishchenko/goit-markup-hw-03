@@ -171,8 +171,7 @@ border: 1px solid #e7e9fc;
 border-top: none;
 margin-bottom: 8px;
 }
-.portfolio-text{margin-bottom: 8px;}
-    
+/portfolio-item-title{margin-bottom: 8px;}
 .footer{background:  #2E2F42;
 padding: 100px 0;}
 
